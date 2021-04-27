@@ -1,10 +1,10 @@
 ---
-title: "Nzxt H510 Elite"
-date: 2021-04-26T11:42:59+02:00
+title: "Razer Naga Pro"
+date: 2021-03-27T09:38:25+02:00
 draft: true
-tags: ["NZXT", "H510", "Elite", "Case", "Gehäuse"]
+tags: ["Razer", "Naga", "Pro", "Maus", "Gaming"]
 categories: ["Test"]
-image: "banner/nzxt_h510_elite.jpg"
+image: "banner/razer_naga_pro.jpeg"
 author: "André Driesel"
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: "Nzxt H510 Elite"
-date: 2021-04-26T11:42:59+02:00
+title: "Tentelian Novice"
+date: 2021-02-27T09:35:25+02:00
 draft: true
-tags: ["NZXT", "H510", "Elite", "Case", "Gehäuse"]
+tags: ["Tentelian", "Novice", "G4M3", "PC", "Gehäuse"]
 categories: ["Test"]
-image: "banner/nzxt_h510_elite.jpg"
+image: "banner/tentelian_novice_g4m3.jpg"
 author: "André Driesel"
 ---
 
