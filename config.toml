@@ -1,4 +1,5 @@
 baseURL = "https://hugotestadr.netlify.app/"
+baseurl = "https://hugotestadr.netlify.app/"
 languageCode = "en-us"
 title = "IndieTest"
 theme = "newsroom"
