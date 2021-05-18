@@ -1,7 +1,7 @@
 ---
 title: "Razer Naga Pro"
 date: 2021-03-27T09:38:25+02:00
-draft: true
+draft: false
 tags: ["Razer", "Naga", "Pro", "Maus", "Gaming"]
 categories: ["Test"]
 image: "banner/razer_naga_pro.jpeg"

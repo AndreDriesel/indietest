@@ -1,7 +1,7 @@
 ---
 title: "Tentelian Novice"
 date: 2021-02-27T09:35:25+02:00
-draft: true
+draft: false
 tags: ["Tentelian", "Novice", "G4M3", "PC", "Gehäuse"]
 categories: ["Test"]
 image: "banner/tentelian_novice_g4m3.jpg"

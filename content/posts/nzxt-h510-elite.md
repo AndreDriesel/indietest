@@ -1,7 +1,7 @@
 ---
 title: "Nzxt H510 Elite"
 date: 2021-04-26T11:42:59+02:00
-draft: true
+draft: false
 tags: ["NZXT", "H510", "Elite", "Case", "Gehäuse"]
 categories: ["Test"]
 image: "banner/nzxt_h510_elite.jpg"
