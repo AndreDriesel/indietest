@@ -24,7 +24,7 @@ html[data-mode="dim"] {
 }
 
 html[data-mode="dim"] * {
-  box-shadow: none !important;
+  box-shadow: none;
 }
 
 html[data-mode="dim"] main p {
@@ -45,7 +45,7 @@ html[data-mode="dim"] .color_choice::after {
     --theme: rgb(48,209,88);
   }
   html:not(.nodarkmode):not([data-mode="lit"]) * {
-    box-shadow: none !important;
+    box-shadow: none;
   }
   html:not(.nodarkmode):not([data-mode="lit"]) main p {
     opacity: 0.9;
@@ -1333,6 +1333,10 @@ pre {
 
 .w {
   color: #666;
+}
+
+html[data-mode="dim"] article {
+  box-shadow: 0 0.5rem 2rem rgba(160, 50, 230, 0.6) !important;
 }
 
 /*# sourceMappingURL=styles.css.map */

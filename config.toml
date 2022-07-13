@@ -2,3 +2,6 @@ baseurl = "https://indietest.netlify.app/"
 languageCode = "en-us"
 title = "IndieTest"
 theme = "newsroom"
+
+[params]
+    css = ["css/custom.css"]
